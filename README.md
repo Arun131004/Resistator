@@ -1,4 +1,4 @@
-# Resistor Calculator
+# Resistator (Resistance Calculator)
 
 This is a resistor calculator project that lets you calculate resistor values based on color bands. It features a live resistor preview, a dark mode toggle, and an animated background with gradient blobs.
 
