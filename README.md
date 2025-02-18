@@ -10,13 +10,7 @@ This is a resistor calculator project that lets you calculate resistor values ba
 - **Live Resistor Preview:** Visual representation of the resistor updates as you select colors.
 - **Resistor Calculation:** Supports 4-band and 5-band resistor calculations, including tolerance.
 
-## Project Structure
 
-your_project/ ├── index.html ├── static/ │ ├── css/ │ │ └── style.css │ └── js/ │ └── script.js ├── .gitignore └── README.md
-
-markdown
-Copy
-Edit
 
 ## Getting Started
 
