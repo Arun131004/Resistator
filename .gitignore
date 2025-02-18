@@ -1,0 +1,21 @@
+# Python bytecode files
+*.py[cod]
+__pycache__/
+
+# Virtual environment folder
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE or Editor folders (optional)
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
