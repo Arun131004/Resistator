@@ -21,11 +21,11 @@ This is a resistor calculator project that lets you calculate resistor values ba
 
 ### Running the Project
 
-1. **Clone the repository (if applicable):**
+1. **Clone the repository :**
 
    ```bash
    git clone https://github.com/yourusername/resistor-calculator.git
    cd resistor-calculator
 Open the Project:
 
-Open the index.html file in your web browser to see the resistor calculator in action.
+- Open the index.html file in your web browser to see the resistor calculator in action.
